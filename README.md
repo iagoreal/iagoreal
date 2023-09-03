@@ -4,9 +4,8 @@ Meu nome é Iago Real, meu primeiro contato com programação foi em 2022, onde 
 
 Também sou bolsista na [@cubosacademy](https://cubos.academy/), onde concorri com outros 40 mil candidatos, com o curso de Desenvolvimento de Software Back-end. 
 
-🌐## Para me encontrar:
+## Para me encontrar:
 [linkedin]()
 
-
-🕹️## Hard Skills:
+## Hard Skills:
 JavaScript, Node.js, HTML
