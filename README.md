@@ -8,5 +8,4 @@ Também sou bolsista na [@cubosacademy](https://cubos.academy/), onde concorri c
 [linkedin]()
 
 ## :technologist:	Hard Skills:
-![]JavaScript, ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-)Node.js, HTML
+![]JavaScript, ![https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white]Node.js, HTML
