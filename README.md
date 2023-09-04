@@ -6,6 +6,9 @@ Também sou bolsista na [@cubosacademy](https://cubos.academy/), onde concorri c
 
 ## :earth_americas: Para me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-dos-santos-vila-real-4513aa255)
+<a href="mailto: iagovreal@gmail.com">
+<img src"http://eastpenndemocraticclub.org/wp-content/uploads/2017/01/Circle-icons-mail.svg_.png"
+<a/>
 
 
 ## :technologist:	Hard Skills:
