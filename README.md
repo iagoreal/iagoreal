@@ -25,7 +25,7 @@ Também sou bolsista na [@cubosacademy](https://cubos.academy/), onde concorri c
 
 
 
-> A vida não se acaba quando deixamos de viver e sim quano deixamos de buscar algo nela! - Bob Marley
+> A vida não se acaba quando deixamos de viver e sim quando deixamos de buscar algo nela! - Bob Marley
 
 
 
