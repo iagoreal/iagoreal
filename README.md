@@ -22,4 +22,9 @@ Também sou bolsista na [@cubosacademy](https://cubos.academy/), onde concorri c
 
 
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoreal)
+
+
+
+
+
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoreal&theme=dracula&hide_border=true)
