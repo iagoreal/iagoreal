@@ -20,8 +20,3 @@ Meu nome é Iago Real, sou **Desenvolvedor Web FullStack**.
 ![JAVA](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
 > A vida não se acaba quando deixamos de viver e sim quando deixamos de buscar algo nela! - Bob Marley
-
-
-
-
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoreal&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens)
