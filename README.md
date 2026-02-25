@@ -1,6 +1,6 @@
 # :vulcan_salute: Olá caro visitante!!
 
-Meu nome é Iago Real, sou **Desenvolvedor Web FullStack**.  
+Meu nome é Iago Real, sou **Desenvolvedor de Software**.  
 
 ## :earth_americas: Para me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-dos-santos-vila-real-4513aa255)
@@ -19,4 +19,3 @@ Meu nome é Iago Real, sou **Desenvolvedor Web FullStack**.
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JAVA](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
-> A vida não se acaba quando deixamos de viver e sim quando deixamos de buscar algo nela! - Bob Marley
